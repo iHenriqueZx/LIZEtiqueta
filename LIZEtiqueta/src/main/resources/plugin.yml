@@ -1,0 +1,4 @@
+name: LIZEtiqueta
+version: '${project.version}'
+main: br.com.henriplugins.LIZEtiqueta
+api-version: '1.19'

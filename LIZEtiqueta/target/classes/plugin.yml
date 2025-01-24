@@ -1,0 +1,4 @@
+name: LIZEtiqueta
+version: '1.0'
+main: br.com.henriplugins.LIZEtiqueta
+api-version: '1.19'
